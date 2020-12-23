@@ -1,0 +1,234 @@
+body {
+  font-family: Roboto, sans-serif; }
+
+.container-fluid .bar {
+  position: sticky;
+  z-index: 22;
+  top: 0;
+  background-color: rgba(120, 131, 139, 0.6); }
+
+header {
+  background-image: url("../img/_vfPn4MzIcg.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  height: 700px; }
+
+.col-md-10 {
+  justify-content: start;
+  padding-right: 314px; }
+
+.col-md-1 {
+  padding: 0; }
+  .col-md-1 .btn {
+    border-radius: 50px; }
+
+.col-md-10 nav h4 {
+  color: #9e1600; }
+
+.col-md-12 button {
+  border-radius: 50px;
+  margin-left: 665px;
+  margin-top: 20px;
+  margin-bottom: 50px;
+  background-color: #9e1600; }
+
+.carousel .container {
+  margin-top: 100px;
+  margin-bottom: 120px;
+  background-color: white; }
+  .carousel .container h2 {
+    color: #505050;
+    font-family: Roboto, sans-serif; }
+  .carousel .container .progress-bar {
+    background-color: #bb1600;
+    margin-left: 515px;
+    margin-top: 15px; }
+  .carousel .container p {
+    font-family: Roboto, sans-serif; }
+  .carousel .container .slide {
+    margin-top: 100px; }
+    .carousel .container .slide .carousel-indicators {
+      margin-bottom: -1rem; }
+      .carousel .container .slide .carousel-indicators li {
+        background-color: #1b1e21;
+        width: 10px;
+        height: 10px;
+        border-radius: 50%;
+        margin-right: 5px; }
+      .carousel .container .slide .carousel-indicators li:hover {
+        background-color: white; }
+    .carousel .container .slide .carousel-inner {
+      margin-left: 50px; }
+    .carousel .container .slide .c {
+      color: #1b1e21;
+      font-size: 80px;
+      margin-right: 180px; }
+    .carousel .container .slide c:hover {
+      color: #dff5ff; }
+    .carousel .container .slide .x {
+      color: #1b1e21;
+      font-size: 80px;
+      margin-left: 115px; }
+    .carousel .container .slide x:hover {
+      color: #dff5ff; }
+
+.imagess {
+  margin-top: 65px; }
+  .imagess .container-fluid {
+    padding-top: 50px;
+    padding-bottom: 100px;
+    background-color: #f6f7f9; }
+    .imagess .container-fluid h2 {
+      font-family: Roboto, sans-serif; }
+    .imagess .container-fluid .progress-bar {
+      background-color: #bb1600;
+      margin-left: 715px;
+      margin-top: 15px; }
+    .imagess .container-fluid .row .col-md-7 {
+      margin-top: 60px; }
+    .imagess .container-fluid .row .col-md-5 {
+      margin-top: 50px; }
+      .imagess .container-fluid .row .col-md-5 p {
+        font-family: Roboto, sans-serif; }
+      .imagess .container-fluid .row .col-md-5 .badge {
+        font-family: Roboto, serif;
+        cursor: pointer;
+        font-size: 14px;
+        margin-top: 50px;
+        width: 200px;
+        line-height: 35px;
+        border-radius: 100px;
+        letter-spacing: 1.3px;
+        color: #ffffff;
+        background-image: linear-gradient(to right, #a51300, #bb1600); }
+
+.first .container-fluid .row .col-md-5 h3 {
+  color: #4a4a4a;
+  font-weight: bold;
+  font-family: Roboto, sans-serif;
+  font-size: 34px; }
+.first .container-fluid .row .col-md-5 p {
+  font-size: 37px;
+  font-weight: 100;
+  color: #444444; }
+.first .container-fluid .row .col-md-5 .progress-bar {
+  margin-left: 478px;
+  background-color: #bb1600; }
+.first .container-fluid .row .col-md-5 .text1 {
+  margin-top: 30px;
+  font-size: 17px;
+  font-weight: 300;
+  line-height: 1.4;
+  color: #383838;
+  margin-left: 183px; }
+  .first .container-fluid .row .col-md-5 .text1 b {
+    font-weight: bold;
+    font-family: Roboto, sans-serif; }
+.first .container-fluid .row .col-md-5 .text2 {
+  font-size: 17px;
+  font-weight: 300;
+  line-height: 1.4;
+  color: #383838;
+  margin-left: 183px; }
+.first .container-fluid .row .col-md-5 .badge {
+  font-family: Roboto, sans-serif;
+  cursor: pointer;
+  font-size: 16px;
+  margin-left: 420px;
+  margin-top: 50px;
+  width: 200px;
+  line-height: 35px;
+  border-radius: 100px;
+  letter-spacing: 1.3px;
+  color: #ffffff;
+  background-image: linear-gradient(to right, #a51300, #bb1600); }
+
+.second {
+  background-color: #f6f7f9; }
+  .second .container {
+    padding-top: 100px;
+    padding-bottom: 100px; }
+    .second .container h3 {
+      font-family: Roboto, sans-serif;
+      font-size: 34px;
+      font-weight: bold;
+      line-height: 1.3;
+      letter-spacing: 1.7px;
+      color: #444444; }
+    .second .container .second-bar .progress-bar {
+      background-color: #bb1600;
+      margin-left: 516px;
+      margin-top: 15px; }
+    .second .container .www {
+      font-size: 17px;
+      font-weight: 100;
+      line-height: 1.4;
+      color: #383838; }
+    .second .container .row {
+      margin-top: 100px; }
+      .second .container .row .col-md-3 .w-50 {
+        padding-left: 30px;
+        margin-left: 55px;
+        margin-bottom: 5px; }
+      .second .container .row .col-md-3 p {
+        font-size: 17px;
+        font-weight: 100;
+        line-height: 1.4;
+        color: #383838;
+        margin-top: 38px; }
+        .second .container .row .col-md-3 p .ppp {
+          font-weight: bold; }
+      .second .container .row .aaa p {
+        margin-top: 15px; }
+        .second .container .row .aaa p .aaaa {
+          font-weight: bold; }
+      .second .container .row .bbb p {
+        margin-top: 23px; }
+        .second .container .row .bbb p .bbbb {
+          font-weight: bold; }
+      .second .container .row .ccc .cccc {
+        font-weight: bold; }
+    .second .container .badge:hover {
+      color: white; }
+    .second .container .badge {
+      font-family: Roboto, sans-serif;
+      cursor: pointer;
+      font-size: 16px;
+      margin-left: 420px;
+      margin-top: 50px;
+      width: 200px;
+      line-height: 35px;
+      border-radius: 100px;
+      letter-spacing: 1.3px;
+      color: #ffffff;
+      background-image: linear-gradient(to right, #a51300, #bb1600); }
+
+footer {
+  background-color: #333333;
+  padding-bottom: 50px; }
+  footer .progress-bar {
+    background-color: #bb1600; }
+  footer .mt-5 a {
+    text-decoration: none; }
+  footer .mt-5 p {
+    font-family: Roboto, sans-serif;
+    color: white;
+    text-decoration: none; }
+  footer .mt-5 p:hover {
+    color: #9e1600;
+    transition: all ease-in-out 0.5s; }
+
+.col-md-4 a {
+  text-decoration: none;
+  padding-right: 7px; }
+  .col-md-4 a img {
+    width: 30px;
+    height: 30px; }
+
+@media (min-width: 0px) and (max-width: 546px) {
+  header {
+    background-position: center; }
+    header .container-fluid .bar .col-md-10 button {
+      margin-left: 420px; } }
+
+/*# sourceMappingURL=Main.css.map */
